@@ -1,0 +1,450 @@
+# Traditional Chinese Message Catalog for On This Day WordPress Plugin.
+# Copyright (C) 2007 Yu Jie Lin
+# This file is distributed under the same license as the OnThisDay package.
+# Yu-Jie Lin <lb07@livibetter.com>, 2007.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OnThisDay 0.6.2.2\n"
+"Report-Msgid-Bugs-To: lb07@livibetter.com\n"
+"POT-Creation-Date: 2007-11-19 17:33+0800\n"
+"PO-Revision-Date: 2007-11-19 17:35+0800\n"
+"Last-Translator: Yu-Jie Lin <lb07@livibetter.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: OnThisDay.php:201
+#, php-format
+msgid "%1$s of each month"
+msgstr "每月的 %1$s"
+
+#: OnThisDay.php:202
+#, php-format
+msgid "every %2$s"
+msgstr "每個 %2$s"
+
+#: OnThisDay.php:203
+#, php-format
+msgid "%1$s of %2$s"
+msgstr "每個%2$s %1$s"
+
+#: OnThisDay.php:204
+#, php-format
+msgid "%3$s"
+msgstr "%3$s"
+
+#: OnThisDay.php:205
+#, php-format
+msgid "%1$s of each month in %3$s"
+msgstr "%3$s每月 %1$s"
+
+#: OnThisDay.php:206
+#, php-format
+msgid "%2$s in %3$s"
+msgstr "%3$s %2$s"
+
+#: OnThisDay.php:207
+#, php-format
+msgid "%1$s of %2$s in %3$s"
+msgstr "%3$s %2$s %1$s"
+
+#: OnThisDay.php:210
+msgid "!Date archive title format for Day"
+msgstr "j"
+
+#: OnThisDay.php:211
+msgid "!Date archive title format for Month"
+msgstr "M"
+
+#: OnThisDay.php:212
+msgid "!Date archive title format for Year"
+msgstr "Y"
+
+#: OnThisDay.php:341 OnThisDay.php:342
+msgid "On this day..."
+msgstr "歷史上的今天"
+
+#: OnThisDay.php:343 OnThisDay.php:353 OnThisDay.php:362
+msgid ""
+"<ul>\n"
+"%items%\n"
+"</ul>\n"
+"%search%"
+msgstr ""
+"<ul>\n"
+"%items%\n"
+"</ul>\n"
+"%search%"
+
+#: OnThisDay.php:344 OnThisDay.php:354 OnThisDay.php:363
+msgid ""
+"<li>%year%: <a href=\"%permalink%\">%title%</a> &mdash; %excerpt%</li>\n"
+msgstr ""
+"<li>%year%: <a href=\"%permalink%\">%title%</a> &mdash; %excerpt%</li>\n"
+
+#: OnThisDay.php:345
+msgid "No posts on this day.%search%"
+msgstr "無歷史文章%search%"
+
+#: OnThisDay.php:346 OnThisDay.php:355 OnThisDay.php:364
+msgid "No other posts on this day.%search%"
+msgstr "無其他歷史文章%search%"
+
+#: OnThisDay.php:352 OnThisDay.php:361
+msgid "<h3>On this day...</h3>"
+msgstr "<h3>歷史上的今天</h3>"
+
+#: OnThisDay.php:370
+msgid "M"
+msgstr "n 月"
+
+#: OnThisDay.php:371
+msgid "j"
+msgstr "j 日"
+
+#: OnThisDay.php:372
+msgid "Y"
+msgstr "Y 年"
+
+#: OnThisDay.php:373
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: OnThisDay.php:382
+msgid "On this day"
+msgstr "歷史上的今天"
+
+#: OnThisDay.php:440
+msgid "Within 7 Dates in Previous Years"
+msgstr "七日內的歷史文章"
+
+#: OnThisDay.php:451
+msgid "No posts found! You need to write harder!"
+msgstr "找不到七日內的歷史文章！多發表些文章吧！"
+
+#: OptionsPage.php:29 OptionsPage.php:165
+msgid "Reset All Options"
+msgstr "重置所有選項設定"
+
+#: OptionsPage.php:32
+msgid "All options are resetted!"
+msgstr "所有選項設定已回復至預設值！"
+
+#: OptionsPage.php:34 OptionsPage.php:167
+msgid "Deactivate Plugin"
+msgstr "停用外掛"
+
+#: OptionsPage.php:42 OptionsPage.php:65 OptionsPage.php:84
+#: OptionsPage.php:106 OptionsPage.php:125 OptionsPage.php:268
+#: OptionsPage.php:316 OptionsPage.php:364 OptionsPage.php:400
+#: OptionsPage.php:436
+msgid "Save"
+msgstr "儲存"
+
+#: OptionsPage.php:54
+msgid "General options saved!"
+msgstr "一般選項設定已儲存！"
+
+#: OptionsPage.php:56 OptionsPage.php:75 OptionsPage.php:97
+#: OptionsPage.php:116 OptionsPage.php:135 OptionsPage.php:269
+#: OptionsPage.php:317 OptionsPage.php:365 OptionsPage.php:401
+#: OptionsPage.php:437
+msgid "Reset"
+msgstr "回復預設值"
+
+#: OptionsPage.php:59
+msgid "General options reseted!"
+msgstr "一般選項設定已回復至預設值！"
+
+#: OptionsPage.php:73
+msgid "Search form options saved!"
+msgstr "搜尋表格設定已儲存！"
+
+#: OptionsPage.php:78
+msgid "Search form options reseted!"
+msgstr "搜尋表格設定已回復至預設值！"
+
+#: OptionsPage.php:95
+msgid "Widget options saved!"
+msgstr "模組設定已儲存！"
+
+#: OptionsPage.php:100
+msgid "Widget options reseted!"
+msgstr "模組設定已回復至預設值！"
+
+#: OptionsPage.php:114
+msgid "Single post mode options saved!"
+msgstr "單文模式設定已儲存！"
+
+#: OptionsPage.php:119
+msgid "Single post mode options reseted!"
+msgstr "單文模式設定已儲存！"
+
+#: OptionsPage.php:133
+msgid "Multi-posts mode options saved!"
+msgstr "多文模式設定已儲存！"
+
+#: OptionsPage.php:138
+msgid "Multi-posts mode options reseted!"
+msgstr "多文模式設定已儲存！"
+
+#: OptionsPage.php:145
+msgid "On this day... Options"
+msgstr "歷史上的今天外掛設定"
+
+#: OptionsPage.php:150
+msgid "About this plugin"
+msgstr "關於本外掛"
+
+#: OptionsPage.php:153
+msgid "Plugin's Website"
+msgstr "本外掛網站"
+
+#: OptionsPage.php:154
+msgid "WordPress Extend"
+msgstr "WordPress Extend"
+
+#: OptionsPage.php:155
+msgid "Get Support"
+msgstr "尋求幫助"
+
+#: OptionsPage.php:156
+msgid "Author's Website"
+msgstr "作者網站"
+
+#: OptionsPage.php:157
+msgid "Donate"
+msgstr "資助作者"
+
+#: OptionsPage.php:162
+msgid "Management"
+msgstr "管理"
+
+#: OptionsPage.php:166
+msgid "Reverts all options to defaults."
+msgstr "所有選項設定回復至預設值。"
+
+#: OptionsPage.php:168
+msgid ""
+"Be careful! This will remove all your settings for this plugin! If you do "
+"not want to lose settings, please use Plugins page to deactivate this plugin."
+msgstr ""
+"請注意！這會移除這個外掛所使用的所有設定！如果你想要保留這些設定，請使用外掛"
+"頁面來停用外掛。"
+
+#: OptionsPage.php:173
+msgid "Tags for Title"
+msgstr "標題的置換標籤"
+
+#: OptionsPage.php:176
+msgid "%date:format%"
+msgstr "%date:格式%"
+
+#: OptionsPage.php:177
+msgid ""
+"Only month and day of month should be used. <a href=\"http://php.net/date"
+"\">format</a>"
+msgstr ""
+"應只用月及日的相關置換標籤。<a href=\"http://php.net/date\">日期置換標籤</a>"
+
+#: OptionsPage.php:182
+msgid "Tags for Block"
+msgstr "列表區塊的置換標籤"
+
+#: OptionsPage.php:186
+msgid "Replaces with several <b>item</b>s"
+msgstr "置換為數個文章項目"
+
+#: OptionsPage.php:188 OptionsPage.php:212
+msgid "Replaces with a search form"
+msgstr "置換為搜尋表格"
+
+#: OptionsPage.php:193
+msgid "Tags for Item"
+msgstr "文章項目的置換標籤"
+
+#: OptionsPage.php:197
+msgid "The year of the post that matches"
+msgstr "文章的年份"
+
+#: OptionsPage.php:199
+msgid "Title of the post"
+msgstr "文章的標題"
+
+#: OptionsPage.php:201
+msgid "Permanente link to the post"
+msgstr "文章的固定網址"
+
+#: OptionsPage.php:203
+msgid "Excerpt of the post"
+msgstr "文章摘要"
+
+#: OptionsPage.php:208
+msgid "Tags for No Result"
+msgstr "無結果的置換標籤"
+
+#: OptionsPage.php:222
+msgid "General Options"
+msgstr "一般選項"
+
+#: OptionsPage.php:229
+msgid "How many posts at once?"
+msgstr "最多列出幾篇文章？"
+
+#: OptionsPage.php:230 OptionsPage.php:234
+msgid "0 means unlimited."
+msgstr "0 代表沒有限制。"
+
+#: OptionsPage.php:233
+msgid "How many years at once?"
+msgstr "最多列出幾年的文章？"
+
+#: OptionsPage.php:237
+msgid "Show password protected posts?"
+msgstr "列出密碼保護文章？"
+
+#: OptionsPage.php:240
+msgid "No"
+msgstr "否"
+
+#: OptionsPage.php:241
+msgid "Yes"
+msgstr "是"
+
+#: OptionsPage.php:243
+msgid ""
+"Password protected posts' excerpt never shown, even input password is "
+"correct."
+msgstr "即使輸入正確密碼，密碼保護文章的摘要仍不會被顯示。"
+
+#: OptionsPage.php:247
+msgid "Excerpt length (Number of words):"
+msgstr "摘要長度（英文字數）"
+
+#: OptionsPage.php:251
+msgid "Show OTD list after post in single post?"
+msgstr "在單文模式的文章後列出列表？"
+
+#: OptionsPage.php:255
+msgid "Show OTD list after each post?"
+msgstr "在每篇文章後列出列表？"
+
+#: OptionsPage.php:259
+msgid "Include pages?"
+msgstr "包含分頁？"
+
+#: OptionsPage.php:263
+msgid "Exclude current year's posts?"
+msgstr "剔除今日文章？"
+
+#: OptionsPage.php:279
+msgid "Search form Options"
+msgstr "搜尋表格設定"
+
+#: OptionsPage.php:283
+msgid ""
+"<a href=\"http://php.net/date\">Formats</a> should match Month, Day of Month "
+"or Year, respectively."
+msgstr ""
+"<a href=\"http://php.net/date\">日期置換標籤</a>分別符合月、日及年欄位。"
+
+#: OptionsPage.php:287
+msgid "Month format"
+msgstr "月份格式"
+
+#: OptionsPage.php:290
+msgid "Suggestions: F for January, M for Jan"
+msgstr "建議：n 月"
+
+#: OptionsPage.php:294
+msgid "Day of Month format"
+msgstr "日格式"
+
+#: OptionsPage.php:297
+msgid "Suggestions: j for 1..31, jS for 1st..31st."
+msgstr "建議：j 日"
+
+#: OptionsPage.php:301
+msgid "Year format"
+msgstr "年份格式"
+
+#: OptionsPage.php:304
+msgid "Suggestions: Y for 2007, y for 07"
+msgstr "建議：Y 年"
+
+#: OptionsPage.php:308
+msgid "Search button text"
+msgstr "搜尋按鈕文字"
+
+#: OptionsPage.php:311
+msgid "Suggestions: &amp;raquo; for &raquo;"
+msgstr "建議：&amp;raquo;"
+
+#: OptionsPage.php:327
+msgid "Widget Options"
+msgstr "模組選項"
+
+#: OptionsPage.php:334
+msgid "Lists same calendar date posts to the post in single post mode"
+msgstr "在單文模式中列出與該文章同月同日的文章"
+
+#: OptionsPage.php:338
+msgid "Title for today"
+msgstr "同今日文章的標題"
+
+#: OptionsPage.php:342
+msgid "Title for single post"
+msgstr "同單文模式文章日期文章的標題"
+
+#: OptionsPage.php:346 OptionsPage.php:386 OptionsPage.php:422
+msgid "Block"
+msgstr "列表區塊代碼"
+
+#: OptionsPage.php:350 OptionsPage.php:390 OptionsPage.php:426
+msgid "Item"
+msgstr "文章項目代碼"
+
+#: OptionsPage.php:354
+msgid "No result message for today"
+msgstr "找不到同今日文章時的訊息"
+
+#: OptionsPage.php:358
+msgid "No result message for single post"
+msgstr "找不到同單文模式文章日期文章時的訊息"
+
+#: OptionsPage.php:375
+msgid "Single post mode Options"
+msgstr "單文模式選項"
+
+#: OptionsPage.php:382 OptionsPage.php:418
+msgid "Title"
+msgstr "標題"
+
+#: OptionsPage.php:394 OptionsPage.php:430
+msgid "No result message"
+msgstr "找不到文章時的訊息"
+
+#: OptionsPage.php:411
+msgid "Multi-posts mode Options"
+msgstr "多文模式選項"
+
+#~ msgid "<ul>\\n%items%\\n</ul>\\n%search%"
+#~ msgstr "<ul>\\n%items%\\n</ul>\\n%search%"
+
+#~ msgid "%1$s of each month in every year"
+#~ msgstr "每年的每月的 %1$s"
+
+#~ msgid "every day of %2$s in every year"
+#~ msgstr "每年 %2$s的每一天"
+
+#~ msgid "%1$s of %2$s in every year"
+#~ msgstr "每年的 %2$s %1$s"
+
+#~ msgid "every day of %2$s in %3$s"
+#~ msgstr "%3$s %2$s的每一天"
+
+#~ msgid "Only month and day of month should be used."
+#~ msgstr "應只用月及日的相關置換標籤。"

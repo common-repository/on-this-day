@@ -1,0 +1,433 @@
+# Message Catalog for OnThisDay.
+# Copyright (C) 2007 Yu Jie Lin
+# This file is distributed under the same license as the OnThisDay package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OnThisDay 0.6.2\n"
+"Report-Msgid-Bugs-To: lb07@livibetter.com\n"
+"POT-Creation-Date: 2007-11-05 03:28+0800\n"
+"PO-Revision-Date: 2007-11-05 21:20+0200\n"
+"Last-Translator: Yovko Lambrev <yovko@yovko.net>\n"
+"Language-Team: BULGARIAN <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: OnThisDay.php:201
+#, php-format
+msgid "%1$s of each month"
+msgstr "%1$s от всеки месец"
+
+#: OnThisDay.php:202
+#, php-format
+msgid "every %2$s"
+msgstr "всеки %2$s"
+
+#: OnThisDay.php:203
+#, php-format
+msgid "%1$s of %2$s"
+msgstr "%1$s от %2$s"
+
+#: OnThisDay.php:204
+#, php-format
+msgid "%3$s"
+msgstr "%3$s"
+
+#: OnThisDay.php:205
+#, php-format
+msgid "%1$s of each month in %3$s"
+msgstr "%1$s от всеки месец в %3$s"
+
+#: OnThisDay.php:206
+#, php-format
+msgid "%2$s in %3$s"
+msgstr "%2$s в %3$s"
+
+#: OnThisDay.php:207
+#, php-format
+msgid "%1$s of %2$s in %3$s"
+msgstr "%1$s от %2$s в %3$s"
+
+#: OnThisDay.php:210
+msgid "!Date archive title format for Day"
+msgstr "Дневен архив за !Date"
+
+#: OnThisDay.php:211
+msgid "!Date archive title format for Month"
+msgstr "Месечен архив за !Date"
+
+#: OnThisDay.php:212
+msgid "!Date archive title format for Year"
+msgstr "Годишен архив за !Date"
+
+#: OnThisDay.php:341 OnThisDay.php:342
+msgid "On this day..."
+msgstr "На този ден..."
+
+#: OnThisDay.php:343 OnThisDay.php:353 OnThisDay.php:362
+msgid ""
+"<ul>\n"
+"%items%\n"
+"</ul>\n"
+"%search%"
+msgstr ""
+"<ul>\n"
+"%items%\n"
+"</ul>\n"
+"%search%"
+
+#: OnThisDay.php:344 OnThisDay.php:354 OnThisDay.php:363
+msgid ""
+"<li>%year%: <a href=\"%permalink%\">%title%</a> &mdash; %excerpt%</li>\n"
+msgstr ""
+"<li>%year%: <a href=\"%permalink%\">%title%</a> &mdash; %excerpt%</li>\n"
+
+#: OnThisDay.php:345
+msgid "No posts on this day.%search%"
+msgstr "Няма публикации на този ден.%search%"
+
+#: OnThisDay.php:346 OnThisDay.php:355 OnThisDay.php:364
+msgid "No other posts on this day.%search%"
+msgstr "Няма други постове на този ден.%search%"
+
+#: OnThisDay.php:352 OnThisDay.php:361
+msgid "<h3>On this day...</h3>"
+msgstr "<h3>На този ден...</h3>"
+
+#: OnThisDay.php:370
+msgid "M"
+msgstr "M"
+
+#: OnThisDay.php:371
+msgid "j"
+msgstr "j"
+
+#: OnThisDay.php:372
+msgid "Y"
+msgstr "Y"
+
+#: OnThisDay.php:373
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: OnThisDay.php:382
+msgid "On this day"
+msgstr "На този ден"
+
+#: OnThisDay.php:440
+msgid "Within 7 Dates in Previous Years"
+msgstr "В рамките на 7 дни в предишни години"
+
+#: OnThisDay.php:451
+msgid "No posts found! You need to write harder!"
+msgstr "Няма намерени публикации! Трябва да пишеш по-сериозно!"
+
+#: OptionsPage.php:29 OptionsPage.php:173
+msgid "Reset All Options"
+msgstr "Нулиране на настройките"
+
+#: OptionsPage.php:32
+msgid "All options are resetted!"
+msgstr "Всички настройки са нулирани!"
+
+#: OptionsPage.php:34 OptionsPage.php:175
+msgid "Deactivate Plugin"
+msgstr "Деактивирай модула"
+
+#: OptionsPage.php:42 OptionsPage.php:65 OptionsPage.php:84
+#: OptionsPage.php:106 OptionsPage.php:125 OptionsPage.php:276
+#: OptionsPage.php:324 OptionsPage.php:372 OptionsPage.php:408
+#: OptionsPage.php:444
+msgid "Save"
+msgstr "Запиши"
+
+#: OptionsPage.php:54
+msgid "General options saved!"
+msgstr "Общите настройки са записани!"
+
+#: OptionsPage.php:56 OptionsPage.php:75 OptionsPage.php:97
+#: OptionsPage.php:116 OptionsPage.php:135 OptionsPage.php:277
+#: OptionsPage.php:325 OptionsPage.php:373 OptionsPage.php:409
+#: OptionsPage.php:445
+msgid "Reset"
+msgstr "Нулирай"
+
+#: OptionsPage.php:59
+msgid "General options reseted!"
+msgstr "Общите настройки са нулирани!"
+
+#: OptionsPage.php:73
+msgid "Search form options saved!"
+msgstr "Настройките за търсене са записани!"
+
+#: OptionsPage.php:78
+msgid "Search form options reseted!"
+msgstr "Настройките за тъсене са нулирани!"
+
+#: OptionsPage.php:95
+msgid "Widget options saved!"
+msgstr "Widget настройките са записани!"
+
+#: OptionsPage.php:100
+msgid "Widget options reseted!"
+msgstr "Widget настройките са нулирани!"
+
+#: OptionsPage.php:114
+msgid "Single post mode options saved!"
+msgstr "Настройките за единична публикация са записани!"
+
+#: OptionsPage.php:119
+msgid "Single post mode options reseted!"
+msgstr "Настройките за единична публикация са нулирани!"
+
+#: OptionsPage.php:133
+msgid "Multi-posts mode options saved!"
+msgstr "Настройките за група публикации са записани!"
+
+#: OptionsPage.php:138
+msgid "Multi-posts mode options reseted!"
+msgstr "Настройките за група публикации са нулирани!"
+
+#: OptionsPage.php:145
+msgid "On this day... Options"
+msgstr "На този ден... Настройки"
+
+#: OptionsPage.php:150
+msgid "About this plugin"
+msgstr "За този модул"
+
+#: OptionsPage.php:153
+msgid "Plugin's Website"
+msgstr "Сайт на модула"
+
+#: OptionsPage.php:154
+msgid "WordPress Extend"
+msgstr "WordPress разширения"
+
+#: OptionsPage.php:155
+msgid "Get Support"
+msgstr "Получи помощ"
+
+#: OptionsPage.php:156
+msgid "Author's Website"
+msgstr "Сайт на автора"
+
+#: OptionsPage.php:170
+msgid "Management"
+msgstr "Управление"
+
+#: OptionsPage.php:174
+msgid "Reverts all options to defaults."
+msgstr "Възстанови всички настройки по подразбиране."
+
+#: OptionsPage.php:176
+msgid ""
+"Be careful! This will remove all your settings for this plugin! If you do "
+"not want to lose settings, please use Plugins page to deactivate this plugin."
+msgstr ""
+"Внимание! Това ще шремахне всички твои настройки за този модул! Ако не искаш "
+"да ги загубиш, използвай страницата с модулите за да го деактивираш."
+
+
+#: OptionsPage.php:181
+msgid "Tags for Title"
+msgstr "Tag-ове за заглавие"
+
+#: OptionsPage.php:184
+msgid "%date:format%"
+msgstr "%date:format%"
+
+#: OptionsPage.php:185
+msgid ""
+"Only month and day of month should be used. <a href=\"http://php.net/date"
+"\">format</a>"
+msgstr ""
+"Използват се само месец и ден. <a href=\"http://php.net/date"
+"\">формат</a>"
+
+#: OptionsPage.php:190
+msgid "Tags for Block"
+msgstr "Tag-ове за блок"
+
+#: OptionsPage.php:194
+msgid "Replaces with several <b>item</b>s"
+msgstr "Замества няколко позиции"
+
+#: OptionsPage.php:196 OptionsPage.php:220
+msgid "Replaces with a search form"
+msgstr "Замества форма за търсене"
+
+#: OptionsPage.php:201
+msgid "Tags for Item"
+msgstr "Tag-ове за позиция"
+
+#: OptionsPage.php:205
+msgid "The year of the post that matches"
+msgstr "Годината на поста, която съвпада"
+
+#: OptionsPage.php:207
+msgid "Title of the post"
+msgstr "Заглавие на публикацията"
+
+#: OptionsPage.php:209
+msgid "Permanente link to the post"
+msgstr "Хипервръзка към публикацията"
+
+#: OptionsPage.php:211
+msgid "Excerpt of the post"
+msgstr "Извадка от публикацията"
+
+#: OptionsPage.php:216
+msgid "Tags for No Result"
+msgstr "Tag-ове за лисващ резултат"
+
+#: OptionsPage.php:230
+msgid "General Options"
+msgstr "Общи настройки"
+
+#: OptionsPage.php:237
+msgid "How many posts at once?"
+msgstr "Колко публикации наведнъж?"
+
+#: OptionsPage.php:238 OptionsPage.php:242
+msgid "0 means unlimited."
+msgstr "0 означава неограничено."
+
+#: OptionsPage.php:241
+msgid "How many years at once?"
+msgstr "Колко години наведнъж?"
+
+#: OptionsPage.php:245
+msgid "Show password protected posts?"
+msgstr "Да показва ли защитени с парола публикации?"
+
+#: OptionsPage.php:248
+msgid "No"
+msgstr "Не"
+
+#: OptionsPage.php:249
+msgid "Yes"
+msgstr "Да"
+
+#: OptionsPage.php:251
+msgid ""
+"Password protected posts' excerpt never shown, even input password is "
+"correct."
+msgstr ""
+"Извадка от защитени с парола постове не се показва никога, дори когато "
+"въведената парола е вярна."
+
+#: OptionsPage.php:255
+msgid "Excerpt length (Number of words):"
+msgstr "Дължина на извадката (брой думи):"
+
+#: OptionsPage.php:259
+msgid "Show OTD list after post in single post?"
+msgstr "Да се показва ли списък с OTD след единичен пост?"
+
+#: OptionsPage.php:263
+msgid "Show OTD list after each post?"
+msgstr "Да се показва ли списък с OTD след всеки пост?"
+
+#: OptionsPage.php:267
+msgid "Include pages?"
+msgstr "И на страниците ли?"
+
+#: OptionsPage.php:271
+msgid "Exclude current year's posts?"
+msgstr "Без текущата година?"
+
+#: OptionsPage.php:287
+msgid "Search form Options"
+msgstr "Настройки на формата за търсене"
+
+#: OptionsPage.php:291
+msgid ""
+"<a href=\"http://php.net/date\">Formats</a> should match Month, Day of Month "
+"or Year, respectively."
+msgstr ""
+"<a href=\"http://php.net/date\">Формата</a> трябва да съвпада с месеца, деня "
+"или годината, съответно."
+
+#: OptionsPage.php:295
+msgid "Month format"
+msgstr "Формат на месеца"
+
+#: OptionsPage.php:298
+msgid "Suggestions: F for January, M for Jan"
+msgstr "Предложение: F за January, M за Jan"
+
+#: OptionsPage.php:302
+msgid "Day of Month format"
+msgstr "Формат на деня от месеца"
+
+#: OptionsPage.php:305
+msgid "Suggestions: j for 1..31, jS for 1st..31st."
+msgstr "Предложение: j за 1..31, jS за 1st..31st."
+
+#: OptionsPage.php:309
+msgid "Year format"
+msgstr "Формат на годината"
+
+#: OptionsPage.php:312
+msgid "Suggestions: Y for 2007, y for 07"
+msgstr "Предложение: Y за 2007, y за 07"
+
+#: OptionsPage.php:316
+msgid "Search button text"
+msgstr "Надпис на бутона за търсене"
+
+#: OptionsPage.php:319
+msgid "Suggestions: &amp;raquo; for &raquo;"
+msgstr "Предложение: &amp;raquo; за &raquo;"
+
+#: OptionsPage.php:335
+msgid "Widget Options"
+msgstr "Widget настройки"
+
+#: OptionsPage.php:342
+msgid "Lists same calendar date posts to the post in single post mode"
+msgstr "Показват се публикации със същата дата, като на единичната публикация"
+
+#: OptionsPage.php:346
+msgid "Title for today"
+msgstr "Заглавие за днес"
+
+#: OptionsPage.php:350
+msgid "Title for single post"
+msgstr "Заглавие за единичен пост"
+
+#: OptionsPage.php:354 OptionsPage.php:394 OptionsPage.php:430
+msgid "Block"
+msgstr "Блок"
+
+#: OptionsPage.php:358 OptionsPage.php:398 OptionsPage.php:434
+msgid "Item"
+msgstr "Позиция"
+
+#: OptionsPage.php:362
+msgid "No result message for today"
+msgstr "Съобщение за липса на пост за днес"
+
+#: OptionsPage.php:366
+msgid "No result message for single post"
+msgstr "Съобщение за липса на пост при единичен пост"
+
+#: OptionsPage.php:383
+msgid "Single post mode Options"
+msgstr "Настройки за единична публикация"
+
+#: OptionsPage.php:390 OptionsPage.php:426
+msgid "Title"
+msgstr "Заглавие"
+
+#: OptionsPage.php:402 OptionsPage.php:438
+msgid "No result message"
+msgstr "Съобщения за липса на пост"
+
+#: OptionsPage.php:419
+msgid "Multi-posts mode Options"
+msgstr "Настройки за група публикации"

@@ -1,0 +1,11 @@
+#aboutBox div ul {
+    margin: 5px 0 5px 0;
+    padding-left: 20px;
+    }
+#aboutBox form {
+    text-align: center;
+    }
+#aboutBox form input {
+    border: none;
+    background-color: transparent;
+    }

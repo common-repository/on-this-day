@@ -1,0 +1,102 @@
+On This Day CHANGES
+===================
+
+OTD 0.6.4 (2008-01-25T13:06:58+0800)
+------------------------------------
+Added: Russian translation
+
+OTD 0.6.3 (2008-01-01T19:53:23+0800)
+------------------------------------
+Fixed: #6 - 7 days forecast fails to show crossing year posts
+Moded: Changed project links to new locations.
+
+* The issue numbers below here are from Google Code llbbsc issue tracker http://code.google.com/p/llbbsc/issues/list *
+
+OTD 0.6.2.3 (2007-12-10T09:34:17+0800)
+--------------------------------------
+Fix #10 - Wrongly calls serialize() when updating Single Post Mode option.
+Modify plugin's name to be `On This Day`.
+
+OTD 0.6.2.2 (2007-11-19T17:28:07+0800)
+--------------------------------------
+Fixed: 4 - Lists same calendar date posts to the post in single post mode"
+           not working with pages.
+
+OTD 0.6.2.1 (2007-11-06T18:51:42+0800)
+-------------------------------
+Added: bg_BG - Bulgarian locale
+
+On this day 0.6.2 (2007-11-05T03:32:21+0800)
+--------------------------------------------
+Added: #3 - How many years?
+
+On this day 0.6.1 (2007-11-03T02:48:17+0800)
+--------------------------------------------
+Fixed: #2 - In default permalink uses XHTML invalid JavaScript code
+          - Fixed by using CDATA
+Moded: Improved dateArchiveTitle.
+
+* The issue numbers below here are from the old project's tracker *
+
+On this day 0.6 (2007-11-02T00:19:54+0800)
+------------------------------------------
+Deled: Unused styles.
+Fixed: Wrong path to OptionsPage.css
+Added: Shows post within 7 dates in previous years in Dashboard.
+Added: Support for translations.
+
+On this day 0.5 (2007-10-28T19:09:27+0800)
+------------------------------------------
+Moded: Use (un)serialization functionalies from WordPress.
+Added: An option for removing settings as well as deactivating plugin.
+
+On this day 0.4 (09/22/2007)
+----------------------------
+Moded: #13 - Short text in search form - Some customizations for Date Search form.
+
+On this day 0.3.1 (08/30/2007)
+------------------------------
+Fixed: #12 - MySQL's version is piror to 4.1.1 don't have UTC_TIMESTAMP() and
+             DAY().
+
+On this day 0.3 (08/24/2007)
+----------------------------
+Added: Two new options - includePages and excludeCurrentYear for #10, #11
+Added: #10 - Page inclusion option 	 
+Added: #11 - Current year's posts exclusion 	 
+Fixed: OTDLoopProcess and HTML code being generated.
+
+On this day 0.2.3 (08/17/2007)
+------------------------------
+Fixed: #9 - preset date in search form is incorrect
+
+On this day 0.2.2 (08/04/2007)
+------------------------------
+Fixed: Incorrect permalink in automatic appending methods.
+Fixed: If widgetSinglePost is true, then always returns
+       widgetPostNoResult when no result.
+Moded: XHTML 1.0 Strict
+
+On this day 0.2.1 (07/29/2007)
+------------------------------
+Moded: Options page
+Added: Automatic appending methods.
+Moded: HTML rendering - more customizing.
+Moded: Replace WP options with single one option.
+Moded: #4, #5, #6.
+
+On this day 0.2 (07/16/2007)
+----------------------------
+Fixed: #2 - Misuse strpos in 0.1.1.
+Added: #1 - Show password protected posts.
+Added: Customization of Widget's title.
+Added: Options - OTDwidgetTitle, OTDnoOtherPost, OTDshowProtected.
+
+On this day 0.1.1 (07/12/2007)
+------------------------------
+Moded: Allow date search in any permalink structures.
+Added: 'wp_head' action hook AddOTDJS for date search javascript.
+
+On this day 0.1 (07/02/2007)
+----------------------------
+First release.
